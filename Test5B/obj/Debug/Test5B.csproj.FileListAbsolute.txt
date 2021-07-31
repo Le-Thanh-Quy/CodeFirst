@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\bin\Debug\Test5B.exe.config
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\bin\Debug\Test5B.exe
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\bin\Debug\Test5B.pdb
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.Form1.resources
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.exe
+C:\Users\ADMIN\Desktop\C#\Winform\CodeFirst\Test5B\Test5B\obj\Debug\Test5B.pdb
